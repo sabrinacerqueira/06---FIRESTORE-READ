@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">firestoneRead</string>
+    <string name="email">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="cadastrar_se">Cadastrar-se</string>
+    <string name="esqueci_senha">Esqueci minha senha</string>
+    <string name="novo_produto">Novo produto</string>
+    <string name="nome">Nome</string>
+    <string name="categoria">Categoria</string>
+    <string name="preco">Preço</string>
+    <string name="salvar">Salvar</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="listar">Listar</string>
+    <string name="sair">Sair</string>
+    <string name="lista_vazia">Nenhum produto cadastrado</string>
+</resources>
